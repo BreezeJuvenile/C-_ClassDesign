@@ -1,1 +1,2 @@
-基于Qt的C++学生诚管理系统
+基于Qt的C++学生成绩管理系统
+StudentScoreManageSystem base on Qt by C++.
