@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chunSe.gif</file>
+        <file>images/favicon.ico</file>
+        <file>images/huat.png</file>
+    </qresource>
+</RCC>
